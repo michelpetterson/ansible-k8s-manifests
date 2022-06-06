@@ -1,0 +1,7 @@
+configmap:
+  VAR_01: test
+  VAR_02: example
+  
+secrets:
+  SECRET_01: test123
+  SECRET_02: exemple_31
